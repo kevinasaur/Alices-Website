@@ -1,0 +1,12 @@
+body{
+    background-color: lightslategray;
+}
+
+h1{
+    color: whitesmoke; 
+    font-size: 90px;
+    text-decoration: underline;
+}
+h2{
+    font-size: 22px;
+}
